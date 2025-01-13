@@ -1,0 +1,14 @@
+{
+  "name": "Jupyter Production Container",
+  "image": "jupyter_image",
+  "forwardPorts": [8888],
+  "workspaceFolder": "/home/jovyan",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  }
+}
