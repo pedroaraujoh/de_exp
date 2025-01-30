@@ -3,6 +3,7 @@
   "image": "jupyter_image",
   "forwardPorts": [8888],
   "workspaceFolder": "/home/jovyan",
+  "postCreateCommand": "apt-get update && apt-get install -y git",
   "customizations": {
     "vscode": {
       "extensions": [

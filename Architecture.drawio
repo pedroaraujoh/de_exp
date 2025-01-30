@@ -1,40 +1,40 @@
 <mxfile host="65bd71144e">
     <diagram id="KWkx2UycJ5qSZCwnAvEJ" name="Page-1">
-        <mxGraphModel dx="1216" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1110" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
-                <mxCell id="10" value="" style="html=1;" edge="1" parent="1" source="6" target="7">
+                <mxCell id="10" value="" style="html=1;" parent="1" source="6" target="7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="20" style="edgeStyle=none;html=1;" edge="1" parent="1" source="6" target="16">
+                <mxCell id="20" style="edgeStyle=none;html=1;" parent="1" source="6" target="16" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="6" value="Python Principal" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+                <mxCell id="6" value="Principal Python&lt;br&gt;All-purpose&lt;br&gt;Development" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
                     <mxGeometry x="280" y="140" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="" style="edgeStyle=none;html=1;dashed=1;" edge="1" parent="1" source="7" target="12">
+                <mxCell id="13" value="" style="edgeStyle=none;html=1;dashed=1;" parent="1" source="7" target="12" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="15" value="" style="edgeStyle=none;html=1;dashed=1;" edge="1" parent="1" source="7" target="14">
+                <mxCell id="15" value="" style="edgeStyle=none;html=1;dashed=1;" parent="1" source="7" target="14" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="23" style="edgeStyle=none;html=1;" edge="1" parent="1" source="7" target="21">
+                <mxCell id="23" style="edgeStyle=none;html=1;" parent="1" source="7" target="21" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="7" value="Spark Leader" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+                <mxCell id="7" value="Spark Leader" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
                     <mxGeometry x="160" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="12" value="Spark Worker" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+                <mxCell id="12" value="Spark Worker" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
                     <mxGeometry x="90" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="14" value="Spark Worker" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+                <mxCell id="14" value="Spark Worker" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
                     <mxGeometry x="230" y="410" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="16" value="Postgres" style="rounded=1;whiteSpace=wrap;arcSize=28;labelBackgroundColor=none;labelBorderColor=none;html=1;align=center;horizontal=1;" vertex="1" parent="1">
+                <mxCell id="16" value="Postgres" style="rounded=1;whiteSpace=wrap;arcSize=28;labelBackgroundColor=none;labelBorderColor=none;html=1;align=center;horizontal=1;" parent="1" vertex="1">
                     <mxGeometry x="520" y="260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="21" value="Hive Metastore" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" vertex="1" parent="1">
+                <mxCell id="21" value="Hive Metastore" style="rounded=1;whiteSpace=wrap;html=1;arcSize=28;" parent="1" vertex="1">
                     <mxGeometry x="520" y="320" width="120" height="60" as="geometry"/>
                 </mxCell>
             </root>
